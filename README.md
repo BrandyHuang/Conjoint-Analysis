@@ -2,7 +2,7 @@
 
 ## This project analyze consumer preferences and solve the problem of desingning a new product. It seeks to answer the following questions: 
 
-### Partworths for each attribute level.
+### * Partworths for each attribute level.
 
 ### Attribute Importance of each attribute
 
