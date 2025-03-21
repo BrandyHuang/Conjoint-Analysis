@@ -51,9 +51,9 @@
 
 #### Optimal Price, Maximum Profit and Market Share
 With coefficients rounded to 1 digit, we have optimal points as follows:
-• Optimal Price: $2126.721
-• Maximum Profit: $19.50413
-• Corresponding Market Share: 0.1539135%
+* Optimal Price: $2126.721
+* Maximum Profit: $19.50413
+* Corresponding Market Share: 0.1539135%
 
 
 
