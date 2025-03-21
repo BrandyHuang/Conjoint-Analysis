@@ -44,9 +44,8 @@
 
 #### Relationship between Sales and Price   &   Relationship between Profit and Price
 
-| ![Alt1](image1.png) | ![Alt2](image2.png) | ![Alt3](image3.png) |
-|----------------------|----------------------|----------------------|
-
+| ![Sales and Pirce](Photo/sales_price.png) | ![Profit and Price](Photo/profit_price.png) |
+|----------------------|----------------------|
 ## Summary
 
 #### Optimal Price, Maximum Profit and Market Share
