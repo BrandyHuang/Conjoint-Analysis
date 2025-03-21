@@ -46,6 +46,7 @@
 
 | ![Sales and Pirce](Photo/sales_price.png) | ![Profit and Price](Photo/profit_price.png) |
 |----------------------|----------------------|
+
 ## Summary
 
 #### Optimal Price, Maximum Profit and Market Share
